@@ -13,9 +13,9 @@ int d;
 
 for (d = '0'; d <= '9'; d++)
 
-printf(d);
+putchar(d);
 
-printf("\n");
+putchar("\n");
 
 return (0);
 }
