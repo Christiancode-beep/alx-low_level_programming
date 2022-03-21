@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * reset_to_98 - updates the int parameter to 98
  * @n: pointer to the variable to update
